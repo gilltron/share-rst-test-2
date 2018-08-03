@@ -1,0 +1,3 @@
+[submodule "share-rst-test"]
+	path = share-rst-test
+	url = https://github.com/gilltron/share-rst-test
