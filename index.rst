@@ -1,0 +1,14 @@
+.. share rst test 2 documentation master file, created by
+   sphinx-quickstart on Fri Aug  3 14:58:37 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Right here
+==========
+
+This is where we want to add the stuff from the other docs.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
